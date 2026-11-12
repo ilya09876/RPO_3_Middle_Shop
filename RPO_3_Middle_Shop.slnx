@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RPO_3_Middle_Shop/RPO_3_Middle_Shop.vcxproj" Id="efc6f2e8-a727-49e9-aa04-b163c9fa6ca1" />
+</Solution>
