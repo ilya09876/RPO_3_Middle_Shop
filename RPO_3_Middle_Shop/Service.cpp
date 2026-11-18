@@ -5,7 +5,7 @@ void Getline(std::wstring& str)
 	std::getline(std::wcin, str, L'\n');
 }
 
-bool IsNumber(const std::string& str)
+bool IsNumber(const std::wstring& str)
 {
 	if (str.size() <= 0 || str.size() >= 10)
 	{
